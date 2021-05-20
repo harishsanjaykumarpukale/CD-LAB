@@ -1,5 +1,6 @@
-#PDF
+#PDF and word
 *.pdf
+*.odt
 
 # Prerequisites
 *.d
